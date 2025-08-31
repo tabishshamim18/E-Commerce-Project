@@ -1,6 +1,7 @@
 📊 Data Analytics Projects – E-commerce
 
-This repository showcases two end-to-end data analytics projects where I applied Python, SQL, Power BI, and Excel to derive actionable business insights. Both projects follow a structured approach: Problem Definition → Data Preparation → Analysis → Visualization → Actionable Results.
+This project analyzes customer purchasing behavior using RFM segmentation (Recency, Frequency, Monetary) and Power BI dashboard.
+The goal was to help an e-commerce business improve customer retention, reduce churn, and increase Customer Lifetime Value (CLV) by identifying high-value vs. low-value customers.
 
 🛒 E-commerce Performance Optimization (RFM Segmentation)
 📌 Problem Statement
